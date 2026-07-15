@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi there 👋
+I'm a developer from Japan  
+I'm still learning all of the languages and technologies listed below
 
-## Getting Started
+## 🌱 Currently Learning
+* Java
 
-First, run the development server:
+## 💻 Languages & Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,java)](https://skillicons.dev)  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=VEDA0013391&layout=compact&langs_count=10&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=VEDA0013391&layout=compact&langs_count=10&theme=vue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VEDA0013391&rank_icon=github&custom_title=My%20Github%20Status&show_icons=true&include_all_commits=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=VEDA0013391&rank_icon=github&custom_title=My%20Github%20Status&show_icons=true&include_all_commits=true&theme=vue)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📫 Contact
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/ryo_001339)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1317692759448223808)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ryo_001339/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 😄 Pronouns
+he/him
