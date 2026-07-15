@@ -1,4 +1,4 @@
-import Image from "next/image";
+import MyImage from "@/app/components/MyImage";
 import Link from "next/link";
 
 export default function RepoCard() {
@@ -11,7 +11,7 @@ export default function RepoCard() {
     >
       <div className="flex items-center gap-5 mb-4 md:mb-0">
         <div className="bg-white/10 p-3 rounded-2xl">
-          <Image
+          <MyImage
             src="/github.svg"
             alt="GitHub"
             width={32}

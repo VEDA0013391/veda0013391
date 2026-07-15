@@ -1,4 +1,4 @@
-import Image from "next/image";
+import MyImage from "@/app/components/MyImage";
 
 export default function ContributionCard() {
   return (
@@ -14,7 +14,7 @@ export default function ContributionCard() {
       </div>
 
       <div className="w-full overflow-x-auto pb-2">
-        <Image
+        <MyImage
           src="https://ghchart.rshah.org/a078ff/VEDA0013391"
           alt="GitHub Contributions"
           width={900}

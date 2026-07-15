@@ -1,4 +1,4 @@
-import Image from "next/image";
+import MyImage from "@/app/components/MyImage";
 import Link from "next/link";
 import { socials } from "@/app/data/socials";
 
@@ -14,7 +14,7 @@ export default function SocialGrid() {
           className={`group sns-card bg-neutral-900 ${social.hover}`}
           aria-label={social.name}
         >
-          <Image
+          <MyImage
             src={social.icon}
             alt={social.name}
             width={36}

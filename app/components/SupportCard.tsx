@@ -1,4 +1,4 @@
-import Image from "next/image";
+import MyImage from "@/app/components/MyImage";
 import Link from "next/link";
 
 export default function SupportCard() {
@@ -10,7 +10,7 @@ export default function SupportCard() {
       className="md:col-span-4 card bg-[#5865F2] hover:bg-[#4752c4] p-6 flex flex-col md:flex-row items-center justify-between group transition duration-300 border-none"
     >
       <div className="flex items-center gap-5 mb-4 md:mb-0">
-        <Image
+        <MyImage
           src="/server-icon.png"
           alt="Server Icon"
           width={56}

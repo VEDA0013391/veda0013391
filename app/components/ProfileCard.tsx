@@ -1,11 +1,11 @@
-import Image from "next/image";
+import MyImage from "@/app/components/MyImage";
 
 export default function ProfileCard() {
   return (
     <div className="md:col-span-2 md:row-span-2 card bg-neutral-900 flex flex-col justify-between p-6 md:p-10">
       <div>
         <div className="flex items-center gap-5 mb-4">
-          <Image
+          <MyImage
             src="/icon.png"
             alt="Profile"
             width={96}

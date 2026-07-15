@@ -1,4 +1,4 @@
-import Image from "next/image";
+import MyImage from "@/app/components/MyImage";
 import Link from "next/link";
 
 type ProjectCardProps = {
@@ -25,7 +25,7 @@ export default function ProjectCard({
     >
       {/* 背景画像 */}
       <div className="absolute inset-0 overflow-hidden">
-        <Image
+        <MyImage
           src={image}
           alt={title}
           width={800}
